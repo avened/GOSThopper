@@ -1,5 +1,6 @@
 # GOSThopper
 
-This is an implementation of Russian cipher known as Kuznyechik (шифр "Кузнечик") or GOST R 34.12-2015 in Golang built-in amd64 assembly language.
+This is an implementation of Russian cipher known as Kuznyechik (шифр "Кузнечик") or GOST R 34.12-2015 
+in Golang built-in amd64 assembly language.
 
 More info: https://dxdt.ru/2019/02/18/8702/ (in Russian).
